@@ -93,8 +93,16 @@ I work with founders and teams from architecture through deployment, with an emp
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ferris007&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferris007&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferris007&theme=github_dark" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferris007&theme=github_dark" alt="Repositories per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferris007&theme=github_dark" alt="Most committed languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferris007&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ---
