@@ -6,7 +6,7 @@ I enjoy turning ambiguous production problems into clearly scoped projects, maki
 
 ### What I Work On
 
-* Backend systems with **Go, Python, PostgreSQL, Redis, and Kafka**
+* Backend systems with **Rust, Go, Python, PostgreSQL, Redis, and Kafka**
 * Distributed systems, reliability, idempotency, and failure handling
 * High-throughput services and inventory/order workflows
 * **Embedding retrieval, evaluation, and model-drift detection**
